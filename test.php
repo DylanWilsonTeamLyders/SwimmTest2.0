@@ -6,4 +6,6 @@ $title = 'Swim Test';
 
 $add = ' hello';
 
-$combo = $title . $add;
+$extra = 'extra';
+
+$combo = $title . $add . $extra;
